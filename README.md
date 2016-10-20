@@ -1,5 +1,5 @@
 # pixar128-library-jpg
-Library: Pixar One Twenty Eight (JPG)
+Library: Pixar One Twenty Eight converted to JPG 90%.
 
 https://community.renderman.pixar.com/article/114/library-pixar-one-twenty-eight.html
 
